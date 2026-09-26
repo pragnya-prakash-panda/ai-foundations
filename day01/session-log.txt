@@ -3,3 +3,9 @@ cd AI-Journey
 cd ai-foundations
 mkdir day01
 doskey /history > day01\session-log.txt
+type day01\session-log.txt
+git status
+git add day01
+git commit -m "Add day 1 terminal session log"
+git push
+doskey /history > day01\session-log.txt
