@@ -1,0 +1,5 @@
+cd Documents
+cd AI-Journey
+cd ai-foundations
+mkdir day01
+doskey /history > day01\session-log.txt
